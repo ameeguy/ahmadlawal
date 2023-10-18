@@ -3875,6 +3875,7 @@ input, select, textarea {
 
 				#main > .posts > article:nth-child(2n - 1) {
 					border-left-width: 0;
+					border-right-width:2px;
 				}
 
 				#main > .posts > article:nth-child(-n + 2) {
